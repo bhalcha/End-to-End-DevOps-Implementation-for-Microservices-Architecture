@@ -14,3 +14,12 @@
 - Frontend Proxy(reverse proxy)(Envoy) :- A reverse proxy is a server that sits in front of backend servers to forward client requests, providing load balancing, security, and caching.
 - Frontend :- From front end you can go to your product catalog service, cart service, shipping service , payment service , email service
 
+## 📝 Steps to Run the Project
+
+- launch an EC2 Inastance :- image = Ubuntu , AMI = latest , instance type = t2.large , create keypair , auto assign publicIP shoud be enabled now launch the instance.
+<img width="1280" alt="Screenshot 2025-06-01 at 1 00 11 PM" src="https://github.com/user-attachments/assets/d997f0d2-5905-4e19-9468-e648de5aba92" />
+
+- connect to the instance using the terminal (ssh)
+<img width="1280" alt="Screenshot 2025-06-01 at 1 01 29 PM" src="https://github.com/user-attachments/assets/812d6ce5-e0fd-42c2-933e-87b689b7f472" />
+
+- download docker engine to our instance (refer docker documentation)
