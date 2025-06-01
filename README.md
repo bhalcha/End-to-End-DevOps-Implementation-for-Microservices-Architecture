@@ -31,3 +31,22 @@
 - install terraform (IaC - infrastructure as code):
 <img width="1280" alt="Screenshot 2025-06-01 at 1 36 29 PM" src="https://github.com/user-attachments/assets/073e4c32-9c36-4c29-9dbd-d889f83e9a33" />
 
+## lets try to run the project locally
+
+- we use Docker compose to run the project locally
+- clone the project to our instance using git clone
+
+:warning: now we are facing an issue that there is no space left on instance
+<img width="1280" alt="Screenshot 2025-06-01 at 3 43 13 PM" src="https://github.com/user-attachments/assets/b6ac3cef-1534-4c0f-a70a-8684b4b2a2ad" />
+
+- lets resolve the issue:-
+1. lets go to volume of our instance on aws account we can see the volume of our instance
+<img width="1280" alt="Screenshot 2025-06-01 at 3 46 11 PM" src="https://github.com/user-attachments/assets/0bb62a4f-6c49-48e8-bb23-cc641796cc6f" />
+
+2. select the volume
+3. click on the actions modify the volume
+4. change the size to 30 gb and click on modify
+<img width="1280" alt="Screenshot 2025-06-01 at 3 49 27 PM" src="https://github.com/user-attachments/assets/8eaf2eaf-3d20-48dd-9a2b-da744cbc56e9" />
+5. also we have to mount the volume to file system then only it can be in use
+
+
