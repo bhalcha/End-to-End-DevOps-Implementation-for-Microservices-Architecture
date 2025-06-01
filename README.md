@@ -48,5 +48,18 @@
 4. change the size to 30 gb and click on modify
 <img width="1280" alt="Screenshot 2025-06-01 at 3 49 27 PM" src="https://github.com/user-attachments/assets/8eaf2eaf-3d20-48dd-9a2b-da744cbc56e9" />
 5. also we have to mount the volume to file system then only it can be in use
+<img width="1280" alt="Screenshot 2025-06-01 at 4 02 09 PM" src="https://github.com/user-attachments/assets/54a619fc-669e-4a56-9222-6c6c48bd947e" />
+6. our volume is mounted and process got started
+<img width="1280" alt="Screenshot 2025-06-01 at 4 05 30 PM" src="https://github.com/user-attachments/assets/53f03a4f-b07f-44e2-8a43-9a863c58ba9d" />
+
+7. now lets see how to access it on the browser we have to open some ports for our instance first
+8. allow all traffic and save the rules
+<img width="1280" alt="Screenshot 2025-06-01 at 4 13 35 PM" src="https://github.com/user-attachments/assets/034d19aa-7faa-454c-bde4-526252241e91" />
+
+10. now copy the public ip of instance and paste it to browser and add 8080 port to it to see the output
+
+:rocket: here are the output result
+<img width="1280" alt="Screenshot 2025-06-01 at 4 13 55 PM" src="https://github.com/user-attachments/assets/1f004e24-cc6f-4ba5-8187-18e8cda5f649" />
+
 
 
