@@ -23,3 +23,8 @@
 <img width="1280" alt="Screenshot 2025-06-01 at 1 01 29 PM" src="https://github.com/user-attachments/assets/812d6ce5-e0fd-42c2-933e-87b689b7f472" />
 
 - download docker engine to our instance (refer docker documentation)
+<img width="1280" alt="Screenshot 2025-06-01 at 1 13 40 PM" src="https://github.com/user-attachments/assets/de4b9e74-63bf-4c35-a005-958eee05ca8b" />
+
+- install kubectl on our instance to interact with kubernetes cluster
+<img width="1280" alt="Screenshot 2025-06-01 at 1 25 41 PM" src="https://github.com/user-attachments/assets/8078038e-07d0-433c-9c2d-d73bca54f63b" />
+
