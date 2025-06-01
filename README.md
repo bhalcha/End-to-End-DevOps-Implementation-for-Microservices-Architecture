@@ -28,3 +28,6 @@
 - install kubectl on our instance to interact with kubernetes cluster
 <img width="1280" alt="Screenshot 2025-06-01 at 1 25 41 PM" src="https://github.com/user-attachments/assets/8078038e-07d0-433c-9c2d-d73bca54f63b" />
 
+- install terraform (IaC - infrastructure as code):
+<img width="1280" alt="Screenshot 2025-06-01 at 1 36 29 PM" src="https://github.com/user-attachments/assets/073e4c32-9c36-4c29-9dbd-d889f83e9a33" />
+
