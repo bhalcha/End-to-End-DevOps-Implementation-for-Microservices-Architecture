@@ -68,7 +68,17 @@ There are multiple microservices are used in this project which are developed us
 
 :star: Docker lifecycle: Dockerfile -> DockerImage -> container.
 
+- lets containerize product catalog /
+- It is a go lang based application so we need go lang to be installed.
+- export it to any port
+- now execute the build command for the application which is already provided by the developer
+- every programming language has a dependancy file for eg: python has requirements.txt , java has if you are using maven it will be in pom.xml similarly in golang it is go.mod (it is developers responsibility to write dependencies)
+- bulid process download the dependencies
+-following is example of how you run it locally
+<img width="1280" alt="Screenshot 2025-06-02 at 12 40 25 PM" src="https://github.com/user-attachments/assets/8f96eeaf-b4c4-4bed-a8fc-00d69fc34614" />
+- now lets write the Dockerfile to create a docker image for application (using multi stage docker build) because in multi stage we use very lightweight images so it does not download unwanted binaries so the chances of vulnerability are low. in multiple stahe you jut copy required binary from first stage and use it in second stage.
 
+<img width="1280" alt="Screenshot 2025-06-02 at 1 32 34 PM" src="https://github.com/user-attachments/assets/816dca72-63cb-4299-b6c9-936b5e2cf203" />
 
 
 
