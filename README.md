@@ -61,5 +61,14 @@
 :rocket: here are the output result
 <img width="1280" alt="Screenshot 2025-06-01 at 4 13 55 PM" src="https://github.com/user-attachments/assets/1f004e24-cc6f-4ba5-8187-18e8cda5f649" />
 
+## Now lests see the process of containerization of the project
+
+There are multiple microservices are used in this project which are developed using different different tech stack like Python ,java, go lang ,etc.
+- now we will se how to containerize it
+
+:star: Docker lifecycle: Dockerfile -> DockerImage -> container.
+
+
+
 
 
