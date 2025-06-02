@@ -68,7 +68,7 @@ There are multiple microservices are used in this project which are developed us
 
 :star: Docker lifecycle: Dockerfile -> DockerImage -> container.
 
-- lets containerize product catalog /
+- lets containerize product catalog(microservice)
 - It is a go lang based application so we need go lang to be installed.
 - export it to any port
 - now execute the build command for the application which is already provided by the developer
@@ -79,6 +79,10 @@ There are multiple microservices are used in this project which are developed us
 - now lets write the Dockerfile to create a docker image for application (using multi stage docker build) because in multi stage we use very lightweight images so it does not download unwanted binaries so the chances of vulnerability are low. in multiple stahe you jut copy required binary from first stage and use it in second stage.
 
 <img width="1280" alt="Screenshot 2025-06-02 at 1 32 34 PM" src="https://github.com/user-attachments/assets/816dca72-63cb-4299-b6c9-936b5e2cf203" />
+
+- we have got our expected output
+![Uploading Screenshot 2025-06-02 at 2.35.13 PM.png…]()
+
 
 
 
