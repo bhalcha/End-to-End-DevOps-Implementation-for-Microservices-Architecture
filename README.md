@@ -68,7 +68,7 @@ There are multiple microservices are used in this project which are developed us
 
 :star: Docker lifecycle: Dockerfile -> DockerImage -> container.
 
-- lets containerize product catalog(microservice)
+- ✅ lets containerize product catalog(microservice)
 - It is a go lang based application so we need go lang to be installed.
 - export it to any port
 - now execute the build command for the application which is already provided by the developer
@@ -84,6 +84,11 @@ There are multiple microservices are used in this project which are developed us
 <img width="1280" alt="Screenshot 2025-06-02 at 2 40 10 PM" src="https://github.com/user-attachments/assets/d55c3ac9-2509-4d56-ae24-eb54335a4923" />
 
 
+- ✅ now containerize Ad microservice(java) :-
+- go to github repo and see the instructions provided by the developer to build the service locally (every developer provides it)
+- in this microservice gradle is used instead of maven
+- lets run this project locally before creating docker file
+<img width="1280" alt="Screenshot 2025-06-02 at 3 12 09 PM" src="https://github.com/user-attachments/assets/185c9b06-344c-4c80-a2d5-51ca98610de1" />
 
-
+- 
 
