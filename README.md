@@ -103,3 +103,8 @@ There are multiple microservices are used in this project which are developed us
 - this is the output
 - <img width="1280" alt="Screenshot 2025-06-02 at 4 12 35 PM" src="https://github.com/user-attachments/assets/f10b9780-c5d3-45b4-bad5-7f55b690ebed" />
 
+## Using Terraform to create EKS cluster using cloud
+- we are using local machine and VScode to write and use teraform code
+- create access key and secret access key of our user
+- download the aws cli to your machine
+- and configure it
