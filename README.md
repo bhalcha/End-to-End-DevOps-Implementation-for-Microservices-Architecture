@@ -90,5 +90,16 @@ There are multiple microservices are used in this project which are developed us
 - lets run this project locally before creating docker file
 <img width="1280" alt="Screenshot 2025-06-02 at 3 12 09 PM" src="https://github.com/user-attachments/assets/185c9b06-344c-4c80-a2d5-51ca98610de1" />
 
-- 
+- following is our dockerfile
+<img width="1280" alt="Screenshot 2025-06-02 at 3 26 23 PM" src="https://github.com/user-attachments/assets/068455b7-19a7-475e-8b69-8a621e76a299" />
+- following is our expected output after running our containerized app
+
+<img width="1280" alt="Screenshot 2025-06-02 at 3 52 55 PM" src="https://github.com/user-attachments/assets/e6f8c2a4-a2f7-4422-82a8-e217e72d625f" />
+
+
+- ✅ now lets containerize the python based microservice :-
+- following is our dockerfile for this application
+- <img width="1280" alt="Screenshot 2025-06-02 at 4 13 29 PM" src="https://github.com/user-attachments/assets/95d7a1a7-1323-4f62-a1ac-aa6f3fc2262d" />
+- this is the output
+- <img width="1280" alt="Screenshot 2025-06-02 at 4 12 35 PM" src="https://github.com/user-attachments/assets/f10b9780-c5d3-45b4-bad5-7f55b690ebed" />
 
