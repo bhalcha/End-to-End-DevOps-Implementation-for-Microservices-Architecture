@@ -108,3 +108,9 @@ There are multiple microservices are used in this project which are developed us
 - create access key and secret access key of our user
 - download the aws cli to your machine
 - and configure it
+- now we will  write a terraform code to create aws resources
+- following code is to create s3 bucket and dynamoDB table for terraform state file
+<img width="1280" alt="Screenshot 2025-06-08 at 7 56 23 PM" src="https://github.com/user-attachments/assets/0ec665de-68bd-4fcd-ad5e-86bdc358d714" />
+<img width="1280" alt="Screenshot 2025-06-08 at 7 56 46 PM" src="https://github.com/user-attachments/assets/7ac88643-7bff-4842-8f1d-91e87a6e82e6" />
+<img width="1280" alt="Screenshot 2025-06-08 at 7 57 09 PM" src="https://github.com/user-attachments/assets/02e5e262-337a-4842-b567-871e7413d44a" />
+<img width="1280" alt="Screenshot 2025-06-08 at 7 57 37 PM" src="https://github.com/user-attachments/assets/8caaf076-d10b-4183-8109-d5d3066e6051" />
