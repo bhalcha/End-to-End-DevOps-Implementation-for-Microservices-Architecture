@@ -116,4 +116,5 @@ There are multiple microservices are used in this project which are developed us
 <img width="1280" alt="Screenshot 2025-06-08 at 7 57 37 PM" src="https://github.com/user-attachments/assets/8caaf076-d10b-4183-8109-d5d3066e6051" />
 
 - Now we will create VPC And EKS cluster module in terraform
+- the code is provided in our repo
 - 
