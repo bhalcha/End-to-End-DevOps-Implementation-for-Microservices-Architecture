@@ -124,4 +124,15 @@ There are multiple microservices are used in this project which are developed us
 ## Now we will deploy project to kubernetes
 
 - now we will use our ec2 instance to communicate to eks cluster
-- 
+- install AWS CLI to our instance
+- now we will add our kubernetes cluster context to our instance
+- <img width="1280" alt="Screenshot 2025-06-10 at 2 05 10 PM" src="https://github.com/user-attachments/assets/06d49fd4-b524-4246-bac5-191726cb2b59" />
+- there are yaml files and service files are written already but we will understand them and implement them
+- now we will create a service account
+- now we will access the project using loadbalancer
+- we have changed the tye to loadbalancer
+- loadbalancer is created
+- <img width="1280" alt="Screenshot 2025-06-10 at 3 26 06 PM" src="https://github.com/user-attachments/assets/e8a5b45a-c697-4939-a515-dd4ee2605e62" />
+- output of our project using eks loadbalancer
+<img width="1280" alt="Screenshot 2025-06-10 at 3 27 34 PM" src="https://github.com/user-attachments/assets/0404e7de-44f7-4412-a704-1e5248bc344a" />
+
