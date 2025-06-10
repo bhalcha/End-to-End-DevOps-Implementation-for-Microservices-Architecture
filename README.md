@@ -117,4 +117,11 @@ There are multiple microservices are used in this project which are developed us
 
 - Now we will create VPC And EKS cluster module in terraform
 - the code is provided in our repo
+- now we have created a eks cluster and VPC using terraform (for code see repository)
+  
+- <img width="1280" alt="Screenshot 2025-06-10 at 11 13 04 AM" src="https://github.com/user-attachments/assets/cae07ec4-6602-48ea-8c2c-e677d775bea1" />
+
+## Now we will deploy project to kubernetes
+
+- now we will use our ec2 instance to communicate to eks cluster
 - 
