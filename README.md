@@ -137,4 +137,6 @@ There are multiple microservices are used in this project which are developed us
 <img width="1280" alt="Screenshot 2025-06-10 at 3 27 34 PM" src="https://github.com/user-attachments/assets/0404e7de-44f7-4412-a704-1e5248bc344a" />
 
 - now we will deploy the ALB ingress controller
-- 
+- we just downloaded our abl ingress controller
+- <img width="1280" alt="Screenshot 2025-06-11 at 12 23 16 PM" src="https://github.com/user-attachments/assets/49f4cdb1-fb61-4601-8ada-d070573818a0" />
+
