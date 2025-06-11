@@ -136,3 +136,5 @@ There are multiple microservices are used in this project which are developed us
 - output of our project using eks loadbalancer
 <img width="1280" alt="Screenshot 2025-06-10 at 3 27 34 PM" src="https://github.com/user-attachments/assets/0404e7de-44f7-4412-a704-1e5248bc344a" />
 
+- now we will deploy the ALB ingress controller
+- 
