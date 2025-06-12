@@ -146,3 +146,15 @@ There are multiple microservices are used in this project which are developed us
 - following is the output using ingress 
 - <img width="1280" alt="Screenshot 2025-06-11 at 3 14 44 PM" src="https://github.com/user-attachments/assets/9d3ea6cb-4e57-45a3-a97b-74f018a7de0f" />
 
+
+## Custom domain configuration for the project
+
+I did not bought any domain so i am not giving any domain name to this project but i know the steps to configure domain name using Route53
+
+
+## CI/CD
+
+- now we will write a CI file for github ations and write alle the required steps in it ( written the file with the help of AI)
+- we have used github actions to check the code quality
+- we were using argo CD tools for continious deployment but the kubernetes cluster storsge is full
+- so it didnt worked out.
