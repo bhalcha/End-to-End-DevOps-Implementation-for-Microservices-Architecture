@@ -140,3 +140,9 @@ There are multiple microservices are used in this project which are developed us
 - we just downloaded our abl ingress controller
 - <img width="1280" alt="Screenshot 2025-06-11 at 12 23 16 PM" src="https://github.com/user-attachments/assets/49f4cdb1-fb61-4601-8ada-d070573818a0" />
 
+- now lets create the ingress resource
+- in ingress file we are only allowing tht if we hit example.com then only show the output
+- we have changed the dns records on our local host for host based rputing
+- following is the output using ingress 
+- <img width="1280" alt="Screenshot 2025-06-11 at 3 14 44 PM" src="https://github.com/user-attachments/assets/9d3ea6cb-4e57-45a3-a97b-74f018a7de0f" />
+
